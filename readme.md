@@ -36,10 +36,6 @@ A análise final resultou em um documento **PDF** com aproximadamente **21 pági
 
 ---
 
-Claro! Aqui vai uma versão **mais clara, coesa e profissional**, mantendo o **Markdown** e o conteúdo original, mas com melhor fluidez e organização:
-
----
-
 ## Questão 3 — Visualização dos Dados
 
 Com base nos dados obtidos durante a etapa de análise, foram elaborados os gráficos utilizados para responder à **Questão 3**.
