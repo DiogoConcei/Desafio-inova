@@ -1,0 +1,280 @@
+entidade_responsavel;fornecedor;objeto_contrato;id_empenho;id_contrato;valor_teto_contrato;valor_total_pago;tipo_irregularidade;valor_prejuizo_estimado
+Prefeitura Municipal de Dados;LimpMax Servicos;Consultoria Financeira;EMP-393;1326;4937,87;7556,76;Sobrepreço (Acima do Contrato);2618,89
+Prefeitura Municipal de Dados;Papelaria Central;Merenda Escolar - Lote 1;EMP-46;1399;18522,37;49472,69;Sobrepreço (Acima do Contrato);30950,32
+Prefeitura Municipal de Dados;Saude Vida Distribuidora;Servico de Vigilancia 24h;EMP-14;1045;34263,12;37386,57;Sobrepreço (Acima do Contrato);3123,45
+Prefeitura Municipal de Dados;Obras Viarias RJ;Fornecimento de Papel A4;EMP-292;1214;24678,4;32904,72;Sobrepreço (Acima do Contrato);8226,32
+Prefeitura Municipal de Dados;Eventos & Promo;Fornecimento de Papel A4;EMP-31;1234;36969,41;37930,77;Sobrepreço (Acima do Contrato);961,36
+Prefeitura Municipal de Dados;Transportes Rapido;Merenda Escolar - Lote 1;EMP-425;1361;16119,48;34430,46;Sobrepreço (Acima do Contrato);18310,98
+Prefeitura Municipal de Dados;ConstruRio Engenharia;Fornecimento de Papel A4;EMP-25;1167;7059,21;7534,27;Sobrepreço (Acima do Contrato);475,06
+Prefeitura Municipal de Dados;TI Inovacao;Servico de Vigilancia 24h;EMP-93;1491;25340,64;25764,12;Sobrepreço (Acima do Contrato);423,48
+Prefeitura Municipal de Dados;Merenda Boa Alimentos;Servico de Vigilancia 24h;EMP-334;1261;19261,46;28655,81;Sobrepreço (Acima do Contrato);9394,35
+Prefeitura Municipal de Dados;ConstruRio Engenharia;Merenda Escolar - Lote 1;EMP-488;1430;45603,04;48327,34;Sobrepreço (Acima do Contrato);2724,3
+Prefeitura Municipal de Dados;TI Inovacao;Merenda Escolar - Lote 1;EMP-387;1319;30252,15;39398,23;Sobrepreço (Acima do Contrato);9146,08
+Prefeitura Municipal de Dados;Transportes Rapido;Medicamentos Basicos;EMP-275;1195;6714,63;23294,88;Sobrepreço (Acima do Contrato);16580,25
+Prefeitura Municipal de Dados;Merenda Boa Alimentos;Locacao de Veiculos;EMP-217;1131;32408,83;46303,81;Sobrepreço (Acima do Contrato);13894,98
+Prefeitura Municipal de Dados;ConstruRio Engenharia;Licencas de Software;EMP-20;1112;21058,66;36221,49;Sobrepreço (Acima do Contrato);15162,83
+Prefeitura Municipal de Dados;Seguranca Total Ltda;Consultoria Financeira;EMP-306;1230;18570,65;21997,26;Sobrepreço (Acima do Contrato);3426,61
+Prefeitura Municipal de Dados;Saude Vida Distribuidora;Manutencao de Ar Condicionado;EMP-344;1272;19311,42;22960,14;Sobrepreço (Acima do Contrato);3648,72
+Prefeitura Municipal de Dados;Saude Vida Distribuidora;Servico de Vigilancia 24h;EMP-166;1074;12510,57;24801,41;Sobrepreço (Acima do Contrato);12290,84
+Prefeitura Municipal de Dados;Saude Vida Distribuidora;Merenda Escolar - Lote 1;EMP-257;1175;7356,19;30623,71;Sobrepreço (Acima do Contrato);23267,52
+Prefeitura Municipal de Dados;Papelaria Central;Pavimentacao Rua X;EMP-18;1089;2759,51;18609,4;Sobrepreço (Acima do Contrato);15849,89
+Prefeitura Municipal de Dados;Consultoria Estrategica;Pavimentacao Rua X;EMP-266;1185;43816,49;5833,66;Pagamento Sem Liquidação (Fantasma);5833,66
+Prefeitura Municipal de Dados;TechServer Solucoes;Fornecimento de Papel A4;EMP-312;1237;13266,38;35166,58;Sobrepreço (Acima do Contrato);21900,2
+Prefeitura Municipal de Dados;Consultoria Estrategica;Licencas de Software;EMP-347;1275;23294,88;25365,4;Sobrepreço (Acima do Contrato);2070,52
+Prefeitura Municipal de Dados;Obras Viarias RJ;Merenda Escolar - Lote 1;EMP-144;1050;13730,33;48143,12;Sobrepreço (Acima do Contrato);34412,79
+Prefeitura Municipal de Dados;LimpMax Servicos;Reforma de Creche;EMP-297;1219;16101,87;16998,06;Sobrepreço (Acima do Contrato);896,19
+Prefeitura Municipal de Dados;Transportes Rapido;Pavimentacao Rua X;EMP-39;1322;25135,27;29252,93;Sobrepreço (Acima do Contrato);4117,66
+Prefeitura Municipal de Dados;TI Inovacao;Locacao de Veiculos;EMP-324;1250;18405,09;43353,65;Sobrepreço (Acima do Contrato);24948,56
+Prefeitura Municipal de Dados;Saude Vida Distribuidora;Licencas de Software;EMP-28;1200;31096,5;4654,45;Pagamento Sem Liquidação (Fantasma);4654,45
+Prefeitura Municipal de Dados;Seguranca Total Ltda;Consultoria Financeira;EMP-195;1106;45066,91;6714,63;Pagamento Sem Liquidação (Fantasma);6714,63
+Prefeitura Municipal de Dados;Seguranca Total Ltda;Locacao de Veiculos;EMP-299;1221;36801,86;24629,72;Pagamento Sem Liquidação (Fantasma);24629,72
+Prefeitura Municipal de Dados;LimpMax Servicos;Manutencao de Ar Condicionado;EMP-412;1347;25365,4;31338,68;Sobrepreço (Acima do Contrato);5973,28
+Prefeitura Municipal de Dados;Saude Vida Distribuidora;Reforma de Creche;EMP-388;1320;3838,53;10697,12;Sobrepreço (Acima do Contrato);6858,59
+Prefeitura Municipal de Dados;Seguranca Total Ltda;Pavimentacao Rua X;EMP-234;1150;36763,38;36969,41;Sobrepreço (Acima do Contrato);206,03
+Prefeitura Municipal de Dados;Transportes Rapido;Licencas de Software;EMP-468;1408;48783,31;27956,91;Pagamento Sem Liquidação (Fantasma);27956,91
+Prefeitura Municipal de Dados;TechServer Solucoes;Manutencao de Ar Condicionado;EMP-338;1265;13437,33;33264,62;Sobrepreço (Acima do Contrato);19827,29
+Prefeitura Municipal de Dados;TI Inovacao;Merenda Escolar - Lote 1;EMP-455;1394;7295,0;28075,29;Sobrepreço (Acima do Contrato);20780,29
+Prefeitura Municipal de Dados;ConstruRio Engenharia;Fornecimento de Papel A4;EMP-86;1483;13400,54;29378,66;Sobrepreço (Acima do Contrato);15978,12
+Prefeitura Municipal de Dados;Obras Viarias RJ;Servico de Vigilancia 24h;EMP-430;1367;1024,7;45603,04;Sobrepreço (Acima do Contrato);44578,34
+Prefeitura Municipal de Dados;TI Inovacao;Locacao de Veiculos;EMP-374;1305;7128,08;47210,21;Sobrepreço (Acima do Contrato);40082,13
+Prefeitura Municipal de Dados;TI Inovacao;Merenda Escolar - Lote 1;EMP-132;1037;11351,84;24364,31;Sobrepreço (Acima do Contrato);13012,47
+Prefeitura Municipal de Dados;Merenda Boa Alimentos;Locacao de Veiculos;EMP-59;1454;14001,34;20486,71;Sobrepreço (Acima do Contrato);6485,37
+Prefeitura Municipal de Dados;Consultoria Estrategica;Pavimentacao Rua X;EMP-445;1383;8895,3;32756,47;Sobrepreço (Acima do Contrato);23861,17
+Prefeitura Municipal de Dados;TechServer Solucoes;Merenda Escolar - Lote 1;EMP-155;1062;30381,14;7384,57;Pagamento Sem Liquidação (Fantasma);7384,57
+Prefeitura Municipal de Dados;TechServer Solucoes;Manutencao de Ar Condicionado;EMP-490;1433;15707,09;16639,79;Sobrepreço (Acima do Contrato);932,7
+Prefeitura Municipal de Dados;Seguranca Total Ltda;Consultoria Financeira;EMP-124;1028;4654,45;19375,37;Sobrepreço (Acima do Contrato);14720,92
+Prefeitura Municipal de Dados;Eventos & Promo;Servico de Vigilancia 24h;EMP-215;1129;2392,95;46407,38;Sobrepreço (Acima do Contrato);44014,43
+Prefeitura Municipal de Dados;Eventos & Promo;Medicamentos Basicos;EMP-191;1102;8772,89;12324,1;Sobrepreço (Acima do Contrato);3551,21
+Prefeitura Municipal de Dados;ConstruRio Engenharia;Pavimentacao Rua X;EMP-225;1140;1527,04;33341,0;Sobrepreço (Acima do Contrato);31813,96
+Prefeitura Municipal de Dados;Seguranca Total Ltda;Merenda Escolar - Lote 1;EMP-183;1093;25764,12;43069,99;Sobrepreço (Acima do Contrato);17305,87
+Prefeitura Municipal de Dados;Obras Viarias RJ;Pavimentacao Rua X;EMP-428;1364;11222,39;34314,19;Sobrepreço (Acima do Contrato);23091,8
+Prefeitura Municipal de Dados;LimpMax Servicos;Medicamentos Basicos;EMP-492;1435;6657,12;49394,11;Sobrepreço (Acima do Contrato);42736,99
+Prefeitura Municipal de Dados;LimpMax Servicos;Merenda Escolar - Lote 1;EMP-188;1098;42193,07;46565,04;Sobrepreço (Acima do Contrato);4371,97
+Prefeitura Municipal de Dados;Papelaria Central;Reforma de Creche;EMP-442;1380;4703,0;44385,11;Sobrepreço (Acima do Contrato);39682,11
+Prefeitura Municipal de Dados;Eventos & Promo;Reforma de Creche;EMP-47;1410;6618,47;26099,42;Sobrepreço (Acima do Contrato);19480,95
+Prefeitura Municipal de Dados;LimpMax Servicos;Pavimentacao Rua X;EMP-318;1243;34913,61;48151,13;Sobrepreço (Acima do Contrato);13237,52
+Prefeitura Municipal de Dados;Consultoria Estrategica;Locacao de Veiculos;EMP-284;1205;1402,15;29887,4;Sobrepreço (Acima do Contrato);28485,25
+Prefeitura Municipal de Dados;ConstruRio Engenharia;Locacao de Veiculos;EMP-434;1371;14843,61;26291,82;Sobrepreço (Acima do Contrato);11448,21
+Prefeitura Municipal de Dados;Seguranca Total Ltda;Medicamentos Basicos;EMP-115;1019;17427,94;46965,3;Sobrepreço (Acima do Contrato);29537,36
+Prefeitura Municipal de Dados;Saude Vida Distribuidora;Consultoria Financeira;EMP-469;1409;7603,74;24388,91;Sobrepreço (Acima do Contrato);16785,17
+Prefeitura Municipal de Dados;TechServer Solucoes;Servico de Vigilancia 24h;EMP-443;1381;39204,96;4993,13;Pagamento Sem Liquidação (Fantasma);4993,13
+Prefeitura Municipal de Dados;Saude Vida Distribuidora;Manutencao de Ar Condicionado;EMP-208;1121;18073,05;47244,19;Sobrepreço (Acima do Contrato);29171,14
+Prefeitura Municipal de Dados;Merenda Boa Alimentos;Servico de Vigilancia 24h;EMP-141;1047;26099,42;33167,31;Sobrepreço (Acima do Contrato);7067,89
+Prefeitura Municipal de Dados;LimpMax Servicos;Servico de Vigilancia 24h;EMP-61;1457;2576,18;23991,72;Sobrepreço (Acima do Contrato);21415,54
+Prefeitura Municipal de Dados;Merenda Boa Alimentos;Fornecimento de Papel A4;EMP-476;1417;4274,48;39133,23;Sobrepreço (Acima do Contrato);34858,75
+Prefeitura Municipal de Dados;Consultoria Estrategica;Licencas de Software;EMP-192;1103;7800,29;42796,97;Sobrepreço (Acima do Contrato);34996,68
+Prefeitura Municipal de Dados;Transportes Rapido;Reforma de Creche;EMP-216;1130;25843,98;2495,05;Pagamento Sem Liquidação (Fantasma);2495,05
+Prefeitura Municipal de Dados;Eventos & Promo;Servico de Vigilancia 24h;EMP-451;1390;13714,04;38848,03;Sobrepreço (Acima do Contrato);25133,99
+Prefeitura Municipal de Dados;Obras Viarias RJ;Servico de Vigilancia 24h;EMP-87;1484;24317,94;24351,85;Sobrepreço (Acima do Contrato);33,91
+Prefeitura Municipal de Dados;TechServer Solucoes;Pavimentacao Rua X;EMP-328;1254;10748,24;19706,95;Sobrepreço (Acima do Contrato);8958,71
+Prefeitura Municipal de Dados;Seguranca Total Ltda;Pavimentacao Rua X;EMP-150;1057;2584,67;36763,38;Sobrepreço (Acima do Contrato);34178,71
+Prefeitura Municipal de Dados;TechServer Solucoes;Fornecimento de Papel A4;EMP-413;1348;23427,23;48896,17;Sobrepreço (Acima do Contrato);25468,94
+Prefeitura Municipal de Dados;TI Inovacao;Servico de Vigilancia 24h;EMP-32;1245;3176,4;16572,46;Sobrepreço (Acima do Contrato);13396,06
+Prefeitura Municipal de Dados;Obras Viarias RJ;Merenda Escolar - Lote 1;EMP-84;1481;5998,6;34290,92;Sobrepreço (Acima do Contrato);28292,32
+Prefeitura Municipal de Dados;Saude Vida Distribuidora;Reforma de Creche;EMP-381;1313;13265,19;39204,96;Sobrepreço (Acima do Contrato);25939,77
+Prefeitura Municipal de Dados;Obras Viarias RJ;Licencas de Software;EMP-273;1193;34572,41;32682,09;Pagamento Sem Liquidação (Fantasma);32682,09
+Prefeitura Municipal de Dados;Merenda Boa Alimentos;Manutencao de Ar Condicionado;EMP-287;1208;47244,19;7256,23;Pagamento Sem Liquidação (Fantasma);7256,23
+Prefeitura Municipal de Dados;ConstruRio Engenharia;Manutencao de Ar Condicionado;EMP-98;1496;24023,5;42193,07;Sobrepreço (Acima do Contrato);18169,57
+Prefeitura Municipal de Dados;Merenda Boa Alimentos;Pavimentacao Rua X;EMP-325;1251;35328,12;45320,83;Sobrepreço (Acima do Contrato);9992,71
+Prefeitura Municipal de Dados;Merenda Boa Alimentos;Fornecimento de Papel A4;EMP-341;1269;4579,91;44520,68;Sobrepreço (Acima do Contrato);39940,77
+Prefeitura Municipal de Dados;Consultoria Estrategica;Servico de Vigilancia 24h;EMP-415;1350;10317,13;44756,71;Sobrepreço (Acima do Contrato);34439,58
+Prefeitura Municipal de Dados;Transportes Rapido;Merenda Escolar - Lote 1;EMP-278;1198;17852,86;32509,19;Sobrepreço (Acima do Contrato);14656,33
+Prefeitura Municipal de Dados;TechServer Solucoes;Medicamentos Basicos;EMP-327;1253;29893,96;34801,36;Sobrepreço (Acima do Contrato);4907,4
+Prefeitura Municipal de Dados;Papelaria Central;Pavimentacao Rua X;EMP-78;1474;4616,45;14239,61;Sobrepreço (Acima do Contrato);9623,16
+Prefeitura Municipal de Dados;LimpMax Servicos;Servico de Vigilancia 24h;EMP-48;1421;8183,79;19624,81;Sobrepreço (Acima do Contrato);11441,02
+Prefeitura Municipal de Dados;Obras Viarias RJ;Servico de Vigilancia 24h;EMP-355;1284;29887,4;41206,22;Sobrepreço (Acima do Contrato);11318,82
+Prefeitura Municipal de Dados;Consultoria Estrategica;Locacao de Veiculos;EMP-182;1092;33223,33;46378,1;Sobrepreço (Acima do Contrato);13154,77
+Prefeitura Municipal de Dados;Consultoria Estrategica;Merenda Escolar - Lote 1;EMP-288;1209;9751,96;29731,09;Sobrepreço (Acima do Contrato);19979,13
+Prefeitura Municipal de Dados;Papelaria Central;Reforma de Creche;EMP-277;1197;2261,26;46520,7;Sobrepreço (Acima do Contrato);44259,44
+Prefeitura Municipal de Dados;ConstruRio Engenharia;Medicamentos Basicos;EMP-36;1289;29914,51;36123,84;Sobrepreço (Acima do Contrato);6209,33
+Prefeitura Municipal de Dados;Obras Viarias RJ;Manutencao de Ar Condicionado;EMP-444;1382;42217,97;43561,8;Sobrepreço (Acima do Contrato);1343,83
+Prefeitura Municipal de Dados;LimpMax Servicos;Medicamentos Basicos;EMP-211;1125;39172,67;42296,8;Sobrepreço (Acima do Contrato);3124,13
+Prefeitura Municipal de Dados;Consultoria Estrategica;Manutencao de Ar Condicionado;EMP-175;1084;34290,92;7356,19;Pagamento Sem Liquidação (Fantasma);7356,19
+Prefeitura Municipal de Dados;Saude Vida Distribuidora;Consultoria Financeira;EMP-294;1216;2495,05;19700,15;Sobrepreço (Acima do Contrato);17205,1
+Prefeitura Municipal de Dados;Saude Vida Distribuidora;Pavimentacao Rua X;EMP-222;1137;16280,68;35068,63;Sobrepreço (Acima do Contrato);18787,95
+Prefeitura Municipal de Dados;Papelaria Central;Locacao de Veiculos;EMP-331;1258;4188,74;21358,43;Sobrepreço (Acima do Contrato);17169,69
+Prefeitura Municipal de Dados;TI Inovacao;Manutencao de Ar Condicionado;EMP-13;1034;18909,55;49985,61;Sobrepreço (Acima do Contrato);31076,06
+Prefeitura Municipal de Dados;ConstruRio Engenharia;Locacao de Veiculos;EMP-213;1127;33792,94;45211,11;Sobrepreço (Acima do Contrato);11418,17
+Prefeitura Municipal de Dados;Saude Vida Distribuidora;Manutencao de Ar Condicionado;EMP-196;1107;1516,92;4185,99;Sobrepreço (Acima do Contrato);2669,07
+Prefeitura Municipal de Dados;Papelaria Central;Medicamentos Basicos;EMP-96;1494;36699,24;38707,85;Sobrepreço (Acima do Contrato);2008,61
+Prefeitura Municipal de Dados;Papelaria Central;Manutencao de Ar Condicionado;EMP-475;1416;3540,93;37368,07;Sobrepreço (Acima do Contrato);33827,14
+Prefeitura Municipal de Dados;Obras Viarias RJ;Merenda Escolar - Lote 1;EMP-372;1303;41676,42;43869,31;Sobrepreço (Acima do Contrato);2192,89
+Prefeitura Municipal de Dados;TechServer Solucoes;Consultoria Financeira;EMP-398;1331;21358,43;22737,79;Sobrepreço (Acima do Contrato);1379,36
+Prefeitura Municipal de Dados;TI Inovacao;Merenda Escolar - Lote 1;EMP-138;1043;30594,7;39469,55;Sobrepreço (Acima do Contrato);8874,85
+Prefeitura Municipal de Dados;Consultoria Estrategica;Servico de Vigilancia 24h;EMP-45;1388;10697,12;34263,12;Sobrepreço (Acima do Contrato);23566,0
+Prefeitura Municipal de Dados;ConstruRio Engenharia;Merenda Escolar - Lote 1;EMP-27;1189;11378,19;36855,47;Sobrepreço (Acima do Contrato);25477,28
+Prefeitura Municipal de Dados;LimpMax Servicos;Merenda Escolar - Lote 1;EMP-114;1018;18609,4;48094,34;Sobrepreço (Acima do Contrato);29484,94
+Prefeitura Municipal de Dados;Seguranca Total Ltda;Locacao de Veiculos;EMP-402;1337;41416,06;48071,25;Sobrepreço (Acima do Contrato);6655,19
+Prefeitura Municipal de Dados;TI Inovacao;Medicamentos Basicos;EMP-493;1436;36354,2;38379,95;Sobrepreço (Acima do Contrato);2025,75
+Prefeitura Municipal de Dados;ConstruRio Engenharia;Medicamentos Basicos;EMP-448;1386;10784,48;44033,17;Sobrepreço (Acima do Contrato);33248,69
+Prefeitura Municipal de Dados;TI Inovacao;Manutencao de Ar Condicionado;EMP-452;1391;43287,82;17644,96;Pagamento Sem Liquidação (Fantasma);17644,96
+Prefeitura Municipal de Dados;TI Inovacao;Servico de Vigilancia 24h;EMP-21;1123;15550,65;45646,6;Sobrepreço (Acima do Contrato);30095,95
+Prefeitura Municipal de Dados;Eventos & Promo;Medicamentos Basicos;EMP-187;1097;19097,05;38202,47;Sobrepreço (Acima do Contrato);19105,42
+Prefeitura Municipal de Dados;Merenda Boa Alimentos;Merenda Escolar - Lote 1;EMP-58;1453;31223,17;39635,71;Sobrepreço (Acima do Contrato);8412,54
+Prefeitura Municipal de Dados;Seguranca Total Ltda;Fornecimento de Papel A4;EMP-281;1202;2952,6;35625,94;Sobrepreço (Acima do Contrato);32673,34
+Prefeitura Municipal de Dados;Papelaria Central;Locacao de Veiculos;EMP-396;1329;9191,48;36364,4;Sobrepreço (Acima do Contrato);27172,92
+Prefeitura Municipal de Dados;TechServer Solucoes;Licencas de Software;EMP-271;1191;12324,1;32037,77;Sobrepreço (Acima do Contrato);19713,67
+Prefeitura Municipal de Dados;Seguranca Total Ltda;Servico de Vigilancia 24h;EMP-55;1450;3531,01;14467,56;Sobrepreço (Acima do Contrato);10936,55
+Prefeitura Municipal de Dados;Obras Viarias RJ;Servico de Vigilancia 24h;EMP-482;1424;7737,12;17089,78;Sobrepreço (Acima do Contrato);9352,66
+Prefeitura Municipal de Dados;Eventos & Promo;Manutencao de Ar Condicionado;EMP-379;1310;4606,14;33233,48;Sobrepreço (Acima do Contrato);28627,34
+Prefeitura Municipal de Dados;Merenda Boa Alimentos;Merenda Escolar - Lote 1;EMP-174;1083;15166,08;38390,66;Sobrepreço (Acima do Contrato);23224,58
+Prefeitura Municipal de Dados;Obras Viarias RJ;Reforma de Creche;EMP-228;1143;23335,29;43103,13;Sobrepreço (Acima do Contrato);19767,84
+Prefeitura Municipal de Dados;Merenda Boa Alimentos;Locacao de Veiculos;EMP-416;1351;2548,67;3540,93;Sobrepreço (Acima do Contrato);992,26
+Prefeitura Municipal de Dados;TI Inovacao;Consultoria Financeira;EMP-134;1039;29252,93;43912,52;Sobrepreço (Acima do Contrato);14659,59
+Prefeitura Municipal de Dados;Merenda Boa Alimentos;Medicamentos Basicos;EMP-303;1227;17112,92;41676,42;Sobrepreço (Acima do Contrato);24563,5
+Prefeitura Municipal de Dados;Consultoria Estrategica;Servico de Vigilancia 24h;EMP-128;1032;16572,46;24149,71;Sobrepreço (Acima do Contrato);7577,25
+Prefeitura Municipal de Dados;Seguranca Total Ltda;Consultoria Financeira;EMP-433;1370;5207,67;15707,09;Sobrepreço (Acima do Contrato);10499,42
+Prefeitura Municipal de Dados;Merenda Boa Alimentos;Consultoria Financeira;EMP-238;1154;36813,29;31210,06;Pagamento Sem Liquidação (Fantasma);31210,06
+Prefeitura Municipal de Dados;TechServer Solucoes;Consultoria Financeira;EMP-43;1366;24321,83;30594,7;Sobrepreço (Acima do Contrato);6272,87
+Prefeitura Municipal de Dados;TechServer Solucoes;Manutencao de Ar Condicionado;EMP-99;1497;19812,64;47084,4;Sobrepreço (Acima do Contrato);27271,76
+Prefeitura Municipal de Dados;ConstruRio Engenharia;Consultoria Financeira;EMP-199;1110;1979,49;13870,51;Sobrepreço (Acima do Contrato);11891,02
+Prefeitura Municipal de Dados;Saude Vida Distribuidora;Servico de Vigilancia 24h;EMP-23;1145;20203,66;39531,59;Sobrepreço (Acima do Contrato);19327,93
+Prefeitura Municipal de Dados;Consultoria Estrategica;Manutencao de Ar Condicionado;EMP-130;1035;39006,98;25843,98;Pagamento Sem Liquidação (Fantasma);25843,98
+Prefeitura Municipal de Dados;Papelaria Central;Reforma de Creche;EMP-248;1165;17309,89;42702,77;Sobrepreço (Acima do Contrato);25392,88
+Prefeitura Municipal de Dados;Consultoria Estrategica;Consultoria Financeira;EMP-250;1168;8928,78;18405,09;Sobrepreço (Acima do Contrato);9476,31
+Prefeitura Municipal de Dados;LimpMax Servicos;Pavimentacao Rua X;EMP-227;1142;13808,37;17112,92;Sobrepreço (Acima do Contrato);3304,55
+Prefeitura Municipal de Dados;Merenda Boa Alimentos;Servico de Vigilancia 24h;EMP-120;1024;14712,36;32923,74;Sobrepreço (Acima do Contrato);18211,38
+Prefeitura Municipal de Dados;Papelaria Central;Locacao de Veiculos;EMP-477;1418;34329,27;45524,57;Sobrepreço (Acima do Contrato);11195,3
+Prefeitura Municipal de Dados;TI Inovacao;Manutencao de Ar Condicionado;EMP-244;1161;41879,17;42940,72;Sobrepreço (Acima do Contrato);1061,55
+Prefeitura Municipal de Dados;Transportes Rapido;Locacao de Veiculos;EMP-173;1082;38803,31;43181,95;Sobrepreço (Acima do Contrato);4378,64
+Prefeitura Municipal de Dados;Transportes Rapido;Consultoria Financeira;EMP-16;1067;33954,03;36396,77;Sobrepreço (Acima do Contrato);2442,74
+Prefeitura Municipal de Dados;TI Inovacao;Manutencao de Ar Condicionado;EMP-411;1346;28774,84;30548,52;Sobrepreço (Acima do Contrato);1773,68
+Prefeitura Municipal de Dados;Consultoria Estrategica;Fornecimento de Papel A4;EMP-147;1053;26278,68;48827,01;Sobrepreço (Acima do Contrato);22548,33
+Prefeitura Municipal de Dados;Papelaria Central;Pavimentacao Rua X;EMP-105;1008;3822,05;29566,53;Sobrepreço (Acima do Contrato);25744,48
+Prefeitura Municipal de Dados;Merenda Boa Alimentos;Manutencao de Ar Condicionado;EMP-193;1104;22827,97;34572,41;Sobrepreço (Acima do Contrato);11744,44
+Prefeitura Municipal de Dados;ConstruRio Engenharia;Locacao de Veiculos;EMP-35;1278;32509,19;39006,98;Sobrepreço (Acima do Contrato);6497,79
+Prefeitura Municipal de Dados;Consultoria Estrategica;Consultoria Financeira;EMP-157;1064;40750,47;49051,89;Sobrepreço (Acima do Contrato);8301,42
+Prefeitura Municipal de Dados;Transportes Rapido;Medicamentos Basicos;EMP-365;1295;44009,43;48712,57;Sobrepreço (Acima do Contrato);4703,14
+Prefeitura Municipal de Dados;Eventos & Promo;Medicamentos Basicos;EMP-181;1091;24402,66;43915,4;Sobrepreço (Acima do Contrato);19512,74
+Prefeitura Municipal de Dados;Saude Vida Distribuidora;Licencas de Software;EMP-73;1469;24388,91;34768,34;Sobrepreço (Acima do Contrato);10379,43
+Prefeitura Municipal de Dados;Eventos & Promo;Medicamentos Basicos;EMP-38;1311;15883,08;46418,67;Sobrepreço (Acima do Contrato);30535,59
+Prefeitura Municipal de Dados;Consultoria Estrategica;Pavimentacao Rua X;EMP-307;1231;35055,99;44637,97;Sobrepreço (Acima do Contrato);9581,98
+Prefeitura Municipal de Dados;Transportes Rapido;Licencas de Software;EMP-274;1194;11008,32;42794,46;Sobrepreço (Acima do Contrato);31786,14
+Prefeitura Municipal de Dados;Obras Viarias RJ;Locacao de Veiculos;EMP-176;1085;10328,5;38383,03;Sobrepreço (Acima do Contrato);28054,53
+Prefeitura Municipal de Dados;Seguranca Total Ltda;Fornecimento de Papel A4;EMP-5;1443;4993,13;30930,82;Sobrepreço (Acima do Contrato);25937,69
+Prefeitura Municipal de Dados;Merenda Boa Alimentos;Consultoria Financeira;EMP-329;1255;6864,7;9191,48;Sobrepreço (Acima do Contrato);2326,78
+Prefeitura Municipal de Dados;Merenda Boa Alimentos;Servico de Vigilancia 24h;EMP-226;1141;33167,31;9923,46;Pagamento Sem Liquidação (Fantasma);9923,46
+Prefeitura Municipal de Dados;TI Inovacao;Manutencao de Ar Condicionado;EMP-463;1403;28408,13;37699,0;Sobrepreço (Acima do Contrato);9290,87
+Prefeitura Municipal de Dados;TI Inovacao;Servico de Vigilancia 24h;EMP-212;1126;4620,87;11362,07;Sobrepreço (Acima do Contrato);6741,2
+Prefeitura Municipal de Dados;Transportes Rapido;Servico de Vigilancia 24h;EMP-382;1314;17710,44;42217,97;Sobrepreço (Acima do Contrato);24507,53
+Prefeitura Municipal de Dados;Transportes Rapido;Pavimentacao Rua X;EMP-242;1159;7402,78;12527,15;Sobrepreço (Acima do Contrato);5124,37
+Prefeitura Municipal de Dados;Consultoria Estrategica;Manutencao de Ar Condicionado;EMP-401;1336;27672,62;42523,58;Sobrepreço (Acima do Contrato);14850,96
+Prefeitura Municipal de Dados;TechServer Solucoes;Locacao de Veiculos;EMP-453;1392;10996,29;31223,17;Sobrepreço (Acima do Contrato);20226,88
+Prefeitura Municipal de Dados;TI Inovacao;Reforma de Creche;EMP-399;1332;11919,76;18522,37;Sobrepreço (Acima do Contrato);6602,61
+Prefeitura Municipal de Dados;Eventos & Promo;Fornecimento de Papel A4;EMP-121;1025;7534,27;18073,05;Sobrepreço (Acima do Contrato);10538,78
+Prefeitura Municipal de Dados;Eventos & Promo;Fornecimento de Papel A4;EMP-160;1068;4411,44;48482,6;Sobrepreço (Acima do Contrato);44071,16
+Prefeitura Municipal de Dados;Consultoria Estrategica;Pavimentacao Rua X;EMP-408;1342;9154,63;48783,31;Sobrepreço (Acima do Contrato);39628,68
+Prefeitura Municipal de Dados;Obras Viarias RJ;Reforma de Creche;EMP-316;1241;15112,6;44424,99;Sobrepreço (Acima do Contrato);29312,39
+Prefeitura Municipal de Dados;Consultoria Estrategica;Manutencao de Ar Condicionado;EMP-88;1485;12167,17;15289,4;Sobrepreço (Acima do Contrato);3122,23
+Prefeitura Municipal de Dados;Consultoria Estrategica;Merenda Escolar - Lote 1;EMP-456;1395;13515,28;27262,74;Sobrepreço (Acima do Contrato);13747,46
+Prefeitura Municipal de Dados;Eventos & Promo;Reforma de Creche;EMP-467;1407;16903,03;31915,63;Sobrepreço (Acima do Contrato);15012,6
+Prefeitura Municipal de Dados;Merenda Boa Alimentos;Locacao de Veiculos;EMP-450;1389;2998,63;3531,01;Sobrepreço (Acima do Contrato);532,38
+Prefeitura Municipal de Dados;Consultoria Estrategica;Consultoria Financeira;EMP-154;1061;23991,72;36813,29;Sobrepreço (Acima do Contrato);12821,57
+Prefeitura Municipal de Dados;Transportes Rapido;Consultoria Financeira;EMP-270;1190;5731,64;35241,31;Sobrepreço (Acima do Contrato);29509,67
+Prefeitura Municipal de Dados;TechServer Solucoes;Servico de Vigilancia 24h;EMP-2;1111;11891,61;26021,35;Sobrepreço (Acima do Contrato);14129,74
+Prefeitura Municipal de Dados;TI Inovacao;Licencas de Software;EMP-210;1124;19375,37;48416,25;Sobrepreço (Acima do Contrato);29040,88
+Prefeitura Municipal de Dados;Obras Viarias RJ;Medicamentos Basicos;EMP-336;1263;32325,6;27672,62;Pagamento Sem Liquidação (Fantasma);27672,62
+Prefeitura Municipal de Dados;Seguranca Total Ltda;Manutencao de Ar Condicionado;EMP-75;1471;13290,47;31863,9;Sobrepreço (Acima do Contrato);18573,43
+Prefeitura Municipal de Dados;TechServer Solucoes;Servico de Vigilancia 24h;EMP-460;1400;28265,04;27623,54;Pagamento Sem Liquidação (Fantasma);27623,54
+Prefeitura Municipal de Dados;Consultoria Estrategica;Manutencao de Ar Condicionado;EMP-420;1356;6978,25;35813,06;Sobrepreço (Acima do Contrato);28834,81
+Prefeitura Municipal de Dados;Obras Viarias RJ;Consultoria Financeira;EMP-479;1420;35813,06;42222,2;Sobrepreço (Acima do Contrato);6409,14
+Prefeitura Municipal de Dados;Merenda Boa Alimentos;Reforma de Creche;EMP-203;1116;22803,77;23631,38;Sobrepreço (Acima do Contrato);827,61
+Prefeitura Municipal de Dados;Merenda Boa Alimentos;Locacao de Veiculos;EMP-302;1226;9923,46;44816,41;Sobrepreço (Acima do Contrato);34892,95
+Prefeitura Municipal de Dados;LimpMax Servicos;Licencas de Software;EMP-311;1236;11733,23;15883,08;Sobrepreço (Acima do Contrato);4149,85
+Prefeitura Municipal de Dados;ConstruRio Engenharia;Locacao de Veiculos;EMP-230;1146;8662,18;18570,65;Sobrepreço (Acima do Contrato);9908,47
+Prefeitura Municipal de Dados;Eventos & Promo;Manutencao de Ar Condicionado;EMP-19;1100;10369,56;17427,94;Sobrepreço (Acima do Contrato);7058,38
+Prefeitura Municipal de Dados;Merenda Boa Alimentos;Servico de Vigilancia 24h;EMP-240;1157;49051,89;49220,7;Sobrepreço (Acima do Contrato);168,81
+Prefeitura Municipal de Dados;Transportes Rapido;Reforma de Creche;EMP-418;1353;11205,79;34329,27;Sobrepreço (Acima do Contrato);23123,48
+Prefeitura Municipal de Dados;LimpMax Servicos;Merenda Escolar - Lote 1;EMP-276;1196;4185,99;23446,41;Sobrepreço (Acima do Contrato);19260,42
+Prefeitura Municipal de Dados;TI Inovacao;Locacao de Veiculos;EMP-404;1339;5334,34;34966,86;Sobrepreço (Acima do Contrato);29632,52
+Prefeitura Municipal de Dados;ConstruRio Engenharia;Reforma de Creche;EMP-286;1207;6451,56;49633,66;Sobrepreço (Acima do Contrato);43182,1
+Prefeitura Municipal de Dados;Papelaria Central;Reforma de Creche;EMP-465;1405;10022,69;36589,26;Sobrepreço (Acima do Contrato);26566,57
+Prefeitura Municipal de Dados;Merenda Boa Alimentos;Locacao de Veiculos;EMP-233;1149;7040,31;19130,97;Sobrepreço (Acima do Contrato);12090,66
+Prefeitura Municipal de Dados;TI Inovacao;Servico de Vigilancia 24h;EMP-260;1179;6085,45;38561,69;Sobrepreço (Acima do Contrato);32476,24
+Prefeitura Municipal de Dados;Saude Vida Distribuidora;Reforma de Creche;EMP-171;1080;30955,13;31621,19;Sobrepreço (Acima do Contrato);666,06
+Prefeitura Municipal de Dados;LimpMax Servicos;Reforma de Creche;EMP-360;1290;22373,88;29458,73;Sobrepreço (Acima do Contrato);7084,85
+Prefeitura Municipal de Dados;ConstruRio Engenharia;Licencas de Software;EMP-156;1063;45817,8;19993,48;Pagamento Sem Liquidação (Fantasma);19993,48
+Prefeitura Municipal de Dados;Consultoria Estrategica;Manutencao de Ar Condicionado;EMP-81;1478;39935,73;26390,18;Pagamento Sem Liquidação (Fantasma);26390,18
+Prefeitura Municipal de Dados;TI Inovacao;Consultoria Financeira;EMP-354;1283;33507,95;37932,42;Sobrepreço (Acima do Contrato);4424,47
+Prefeitura Municipal de Dados;TI Inovacao;Pavimentacao Rua X;EMP-431;1368;16289,74;30105,05;Sobrepreço (Acima do Contrato);13815,31
+Prefeitura Municipal de Dados;TechServer Solucoes;Reforma de Creche;EMP-89;1486;1387,74;2759,51;Sobrepreço (Acima do Contrato);1371,77
+Prefeitura Municipal de Dados;Transportes Rapido;Reforma de Creche;EMP-305;1229;1837,95;7128,08;Sobrepreço (Acima do Contrato);5290,13
+Prefeitura Municipal de Dados;Eventos & Promo;Licencas de Software;EMP-77;1473;6026,9;23828,76;Sobrepreço (Acima do Contrato);17801,86
+Prefeitura Municipal de Dados;Eventos & Promo;Merenda Escolar - Lote 1;EMP-251;1169;6960,05;35328,12;Sobrepreço (Acima do Contrato);28368,07
+Prefeitura Municipal de Dados;Merenda Boa Alimentos;Consultoria Financeira;EMP-459;1398;22737,79;33853,96;Sobrepreço (Acima do Contrato);11116,17
+Prefeitura Municipal de Dados;Merenda Boa Alimentos;Consultoria Financeira;EMP-252;1170;18596,25;34509,25;Sobrepreço (Acima do Contrato);15913,0
+Prefeitura Municipal de Dados;Merenda Boa Alimentos;Medicamentos Basicos;EMP-296;1218;6056,41;35424,66;Sobrepreço (Acima do Contrato);29368,25
+Prefeitura Municipal de Dados;TechServer Solucoes;Manutencao de Ar Condicionado;EMP-109;1012;6656,92;37385,87;Sobrepreço (Acima do Contrato);30728,95
+Prefeitura Municipal de Dados;TI Inovacao;Reforma de Creche;EMP-422;1358;1979,22;43772,13;Sobrepreço (Acima do Contrato);41792,91
+Prefeitura Municipal de Dados;Eventos & Promo;Medicamentos Basicos;EMP-107;1010;12856,77;1516,92;Pagamento Sem Liquidação (Fantasma);1516,92
+Prefeitura Municipal de Dados;Obras Viarias RJ;Manutencao de Ar Condicionado;EMP-454;1393;7556,76;14001,34;Sobrepreço (Acima do Contrato);6444,58
+Prefeitura Municipal de Dados;ConstruRio Engenharia;Consultoria Financeira;EMP-436;1373;35534,78;36354,2;Sobrepreço (Acima do Contrato);819,42
+Prefeitura Municipal de Dados;Eventos & Promo;Medicamentos Basicos;EMP-317;1242;12527,15;43381,49;Sobrepreço (Acima do Contrato);30854,34
+Prefeitura Municipal de Dados;ConstruRio Engenharia;Locacao de Veiculos;EMP-65;1460;27623,54;37412,81;Sobrepreço (Acima do Contrato);9789,27
+Prefeitura Municipal de Dados;Papelaria Central;Consultoria Financeira;EMP-106;1009;29096,35;45066,91;Sobrepreço (Acima do Contrato);15970,56
+Prefeitura Municipal de Dados;ConstruRio Engenharia;Pavimentacao Rua X;EMP-383;1315;1124,98;8895,3;Sobrepreço (Acima do Contrato);7770,32
+Prefeitura Municipal de Dados;TI Inovacao;Manutencao de Ar Condicionado;EMP-369;1299;24629,72;43099,65;Sobrepreço (Acima do Contrato);18469,93
+Prefeitura Municipal de Dados;Merenda Boa Alimentos;Merenda Escolar - Lote 1;EMP-340;1268;20105,97;46587,39;Sobrepreço (Acima do Contrato);26481,42
+Prefeitura Municipal de Dados;Papelaria Central;Manutencao de Ar Condicionado;EMP-290;1212;11362,07;22373,88;Sobrepreço (Acima do Contrato);11011,81
+Prefeitura Municipal de Dados;Merenda Boa Alimentos;Reforma de Creche;EMP-373;1304;24577,63;35534,78;Sobrepreço (Acima do Contrato);10957,15
+Prefeitura Municipal de Dados;Eventos & Promo;Reforma de Creche;EMP-15;1056;37817,24;44907,64;Sobrepreço (Acima do Contrato);7090,4
+Prefeitura Municipal de Dados;Saude Vida Distribuidora;Servico de Vigilancia 24h;EMP-168;1076;5384,66;8928,78;Sobrepreço (Acima do Contrato);3544,12
+Prefeitura Municipal de Dados;TechServer Solucoes;Servico de Vigilancia 24h;EMP-178;1087;24351,85;29523,22;Sobrepreço (Acima do Contrato);5171,37
+Prefeitura Municipal de Dados;Obras Viarias RJ;Pavimentacao Rua X;EMP-62;1458;11103,5;30381,14;Sobrepreço (Acima do Contrato);19277,64
+Prefeitura Municipal de Dados;Seguranca Total Ltda;Reforma de Creche;EMP-333;1260;38561,69;49543,99;Sobrepreço (Acima do Contrato);10982,3
+Prefeitura Municipal de Dados;TI Inovacao;Servico de Vigilancia 24h;EMP-104;1007;1263,24;22827,97;Sobrepreço (Acima do Contrato);21564,73
+Prefeitura Municipal de Dados;Eventos & Promo;Manutencao de Ar Condicionado;EMP-283;1204;6191,4;33507,95;Sobrepreço (Acima do Contrato);27316,55
+Prefeitura Municipal de Dados;ConstruRio Engenharia;Fornecimento de Papel A4;EMP-92;1490;16639,79;33223,33;Sobrepreço (Acima do Contrato);16583,54
+Prefeitura Municipal de Dados;ConstruRio Engenharia;Fornecimento de Papel A4;EMP-487;1429;41229,51;48848,1;Sobrepreço (Acima do Contrato);7618,59
+Prefeitura Municipal de Dados;Transportes Rapido;Servico de Vigilancia 24h;EMP-419;1354;37932,42;46350,93;Sobrepreço (Acima do Contrato);8418,51
+Prefeitura Municipal de Dados;Obras Viarias RJ;Consultoria Financeira;EMP-214;1128;24149,71;24678,4;Sobrepreço (Acima do Contrato);528,69
+Prefeitura Municipal de Dados;Saude Vida Distribuidora;Medicamentos Basicos;EMP-427;1363;11256,17;38281,28;Sobrepreço (Acima do Contrato);27025,11
+Prefeitura Municipal de Dados;Merenda Boa Alimentos;Manutencao de Ar Condicionado;EMP-259;1177;17296,25;45515,16;Sobrepreço (Acima do Contrato);28218,91
+Prefeitura Municipal de Dados;Papelaria Central;Merenda Escolar - Lote 1;EMP-180;1090;46556,65;47024,15;Sobrepreço (Acima do Contrato);467,5
+Prefeitura Municipal de Dados;Merenda Boa Alimentos;Reforma de Creche;EMP-378;1309;15497,35;42937,63;Sobrepreço (Acima do Contrato);27440,28
+Prefeitura Municipal de Dados;TechServer Solucoes;Locacao de Veiculos;EMP-400;1335;19131,77;28265,04;Sobrepreço (Acima do Contrato);9133,27
+Prefeitura Municipal de Dados;TechServer Solucoes;Manutencao de Ar Condicionado;EMP-235;1151;8460,85;40748,1;Sobrepreço (Acima do Contrato);32287,25
+Prefeitura Municipal de Dados;ConstruRio Engenharia;Medicamentos Basicos;EMP-51;1446;9283,84;41514,06;Sobrepreço (Acima do Contrato);32230,22
+Prefeitura Municipal de Dados;Obras Viarias RJ;Consultoria Financeira;EMP-185;1095;25167,01;43816,49;Sobrepreço (Acima do Contrato);18649,48
+Prefeitura Municipal de Dados;Consultoria Estrategica;Locacao de Veiculos;EMP-466;1406;18418,55;28943,2;Sobrepreço (Acima do Contrato);10524,65
+Prefeitura Municipal de Dados;Saude Vida Distribuidora;Reforma de Creche;EMP-480;1422;43772,13;33066,64;Pagamento Sem Liquidação (Fantasma);33066,64
+Prefeitura Municipal de Dados;Obras Viarias RJ;Locacao de Veiculos;EMP-308;1232;25569,5;46763,37;Sobrepreço (Acima do Contrato);21193,87
+Prefeitura Municipal de Dados;Obras Viarias RJ;Medicamentos Basicos;EMP-163;1071;10022,65;44557,91;Sobrepreço (Acima do Contrato);34535,26
+Prefeitura Municipal de Dados;Eventos & Promo;Fornecimento de Papel A4;EMP-125;1029;24088,16;39172,67;Sobrepreço (Acima do Contrato);15084,51
+Prefeitura Municipal de Dados;Saude Vida Distribuidora;Merenda Escolar - Lote 1;EMP-101;1004;15924,19;28910,0;Sobrepreço (Acima do Contrato);12985,81
+Prefeitura Municipal de Dados;Merenda Boa Alimentos;Consultoria Financeira;EMP-139;1044;30496,17;49798,17;Sobrepreço (Acima do Contrato);19302,0
+Prefeitura Municipal de Dados;Merenda Boa Alimentos;Reforma de Creche;EMP-113;1017;7822,08;40955,94;Sobrepreço (Acima do Contrato);33133,86
+Prefeitura Municipal de Dados;Saude Vida Distribuidora;Reforma de Creche;EMP-97;1495;8818,86;19097,05;Sobrepreço (Acima do Contrato);10278,19
+Prefeitura Municipal de Dados;Papelaria Central;Merenda Escolar - Lote 1;EMP-152;1059;20486,71;36758,51;Sobrepreço (Acima do Contrato);16271,8
+Prefeitura Municipal de Dados;TI Inovacao;Reforma de Creche;EMP-30;1223;3588,3;28772,25;Sobrepreço (Acima do Contrato);25183,95
+Prefeitura Municipal de Dados;Papelaria Central;Pavimentacao Rua X;EMP-239;1155;7384,57;41920,97;Sobrepreço (Acima do Contrato);34536,4
+Prefeitura Municipal de Dados;Obras Viarias RJ;Pavimentacao Rua X;EMP-494;1437;26341,87;36699,24;Sobrepreço (Acima do Contrato);10357,37
+Prefeitura Municipal de Dados;Transportes Rapido;Licencas de Software;EMP-282;1203;23631,38;48335,1;Sobrepreço (Acima do Contrato);24703,72
+Prefeitura Municipal de Dados;LimpMax Servicos;Licencas de Software;EMP-247;1164;17737,22;21052,05;Sobrepreço (Acima do Contrato);3314,83
+Prefeitura Municipal de Dados;Papelaria Central;Reforma de Creche;EMP-143;1049;9302,64;23335,29;Sobrepreço (Acima do Contrato);14032,65
+Prefeitura Municipal de Dados;LimpMax Servicos;Fornecimento de Papel A4;EMP-253;1171;31621,19;29893,96;Pagamento Sem Liquidação (Fantasma);29893,96
+Prefeitura Municipal de Dados;Papelaria Central;Manutencao de Ar Condicionado;EMP-439;1376;26979,74;28062,43;Sobrepreço (Acima do Contrato);1082,69
+Prefeitura Municipal de Dados;Saude Vida Distribuidora;Fornecimento de Papel A4;EMP-63;1459;33853,96;45817,8;Sobrepreço (Acima do Contrato);11963,84
+Prefeitura Municipal de Dados;TechServer Solucoes;Merenda Escolar - Lote 1;EMP-285;1206;4628,08;23531,4;Sobrepreço (Acima do Contrato);18903,32
+Prefeitura Municipal de Dados;Obras Viarias RJ;Consultoria Financeira;EMP-26;1178;29523,22;48874,15;Sobrepreço (Acima do Contrato);19350,93
+Prefeitura Municipal de Dados;TechServer Solucoes;Merenda Escolar - Lote 1;EMP-41;1344;22960,14;34977,83;Sobrepreço (Acima do Contrato);12017,69
+Prefeitura Municipal de Dados;TI Inovacao;Consultoria Financeira;EMP-359;1288;29731,09;43086,89;Sobrepreço (Acima do Contrato);13355,8
+Prefeitura Municipal de Dados;Saude Vida Distribuidora;Locacao de Veiculos;EMP-74;1470;11465,83;12510,57;Sobrepreço (Acima do Contrato);1044,74
+Prefeitura Municipal de Dados;Consultoria Estrategica;Fornecimento de Papel A4;EMP-495;1438;7163,43;8818,86;Sobrepreço (Acima do Contrato);1655,43
+Prefeitura Municipal de Dados;Saude Vida Distribuidora;Licencas de Software;EMP-441;1379;33233,48;45353,13;Sobrepreço (Acima do Contrato);12119,65
+Prefeitura Municipal de Dados;Transportes Rapido;Servico de Vigilancia 24h;EMP-385;1317;43381,49;27423,64;Pagamento Sem Liquidação (Fantasma);27423,64
+Prefeitura Municipal de Dados;TI Inovacao;Servico de Vigilancia 24h;EMP-136;1041;34977,83;45275,46;Sobrepreço (Acima do Contrato);10297,63
+Prefeitura Municipal de Dados;ConstruRio Engenharia;Merenda Escolar - Lote 1;EMP-265;1184;7899,4;13437,33;Sobrepreço (Acima do Contrato);5537,93
+Prefeitura Municipal de Dados;Papelaria Central;Medicamentos Basicos;EMP-91;1489;20161,94;24402,66;Sobrepreço (Acima do Contrato);4240,72
+Prefeitura Municipal de Dados;Consultoria Estrategica;Locacao de Veiculos;EMP-426;1362;6557,9;49232,11;Sobrepreço (Acima do Contrato);42674,21
+Prefeitura Municipal de Dados;TechServer Solucoes;Pavimentacao Rua X;EMP-267;1186;9697,15;26432,34;Sobrepreço (Acima do Contrato);16735,19
+Prefeitura Municipal de Dados;Eventos & Promo;Medicamentos Basicos;EMP-241;1158;11742,04;15112,6;Sobrepreço (Acima do Contrato);3370,56
+Prefeitura Municipal de Dados;LimpMax Servicos;Medicamentos Basicos;EMP-40;1334;28655,81;29846,33;Sobrepreço (Acima do Contrato);1190,52
+Prefeitura Municipal de Dados;Consultoria Estrategica;Fornecimento de Papel A4;EMP-375;1306;21997,26;33896,73;Sobrepreço (Acima do Contrato);11899,47
+Prefeitura Municipal de Dados;Eventos & Promo;Merenda Escolar - Lote 1;EMP-390;1323;2023,71;13714,04;Sobrepreço (Acima do Contrato);11690,33
+Prefeitura Municipal de Dados;LimpMax Servicos;Medicamentos Basicos;EMP-66;1461;29987,1;33670,88;Sobrepreço (Acima do Contrato);3683,78
+Prefeitura Municipal de Dados;Transportes Rapido;Reforma de Creche;EMP-394;1327;34801,36;7295,0;Pagamento Sem Liquidação (Fantasma);7295,0
+Prefeitura Municipal de Dados;Papelaria Central;Locacao de Veiculos;EMP-220;1135;3405,19;34502,45;Sobrepreço (Acima do Contrato);31097,26
+Prefeitura Municipal de Dados;Saude Vida Distribuidora;Consultoria Financeira;EMP-148;1054;27769,81;37448,38;Sobrepreço (Acima do Contrato);9678,57
+Prefeitura Municipal de Dados;Seguranca Total Ltda;Fornecimento de Papel A4;EMP-254;1172;4355,69;10748,24;Sobrepreço (Acima do Contrato);6392,55
+Prefeitura Municipal de Dados;Transportes Rapido;Pavimentacao Rua X;EMP-161;1069;26290,75;41879,17;Sobrepreço (Acima do Contrato);15588,42

@@ -550,3 +550,13 @@ INNER JOIN empenho e ON c.id_contrato = e.id_contrato
 INNER JOIN pagamento p ON e.id_empenho = p.id_empenho
 GROUP BY f.id_fornecedor, f.nome, f.documento
 ORDER BY saldo_excedente_recebido DESC;
+
+-- Os 2 registros de pagamento de boleto que não têm liquidação/empenho.
+SELECT 
+    np.chave_nfe,
+    np.tipo_pagamento,
+    np.valor_pagamento AS valor_nfe_pagamento,
+    'REGISTRO ORFÃO (SEM LIQUIDAÇÃO VINCULADA)' AS status_auditoria
+FROM nfe_pagamento np
+LEFT JOIN liquidacao_nota_fiscal l ON np.chave_nfe = l.chave_danfe
+WHERE l.chave_danfe IS NULL;

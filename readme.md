@@ -47,12 +47,29 @@ Com base nos dados obtidos durante a etapa de análise, foram elaborados os grá
 
 Antes da geração dos gráficos, foi realizada a consolidação de aproximadamente **16 arquivos CSV** contendo os dados relevantes. No entanto, considerando que a utilização de todos esses conjuntos resultaria em um volume excessivo de visualizações, optou-se pela seleção de apenas **7 conjuntos de dados**, considerados mais representativos, para compor os gráficos finais.
 
+Adicionalmente, foi criado um arquivo denominado **`pesquisa_grafico`**, que contém todas as **queries SQL** utilizadas para a extração dos dados e geração dos arquivos **CSV**. Esses arquivos serviram como base para a construção dos gráficos empregados ao longo do processo de auditoria.
+
+Também foram realizadas alterações no arquivo **`main.py`**, no qual foi implementado um código responsável por:
+
+- Estabelecer conexão com o banco de dados utilizando a biblioteca **`psycopg2`**
+- Executar as consultas SQL definidas
+- Persistir os dados retornados em arquivos **CSV**
+- Gerar automaticamente um **gráfico de pizza**, equivalente ao gráfico denominado **“Visão Geral das Despesas”**
+
 Os gráficos foram organizados em quatro grupos distintos dentro da pasta **`graficos_auditoria`**.
 
 - A versão **interativa** de cada gráfico encontra-se no formato **`.html`**, podendo ser aberta diretamente em qualquer navegador, sem necessidade de configurações adicionais
 - Em cada grupo, há também uma **subpasta** contendo a versão correspondente do gráfico no formato de **imagem**
 
-Por questões de **proteção de dados**, os arquivos CSV utilizados não foram disponibilizados no GitHub. Ainda assim, esses arquivos permanecem sob minha posse e podem ser apresentados mediante necessidade ou solicitação futura.
+### Comentário sobre o processo de desenvolvimento
+
+Durante a execução do projeto, ocorreu um equívoco no versionamento dos arquivos, no qual o arquivo main.py foi enviado vazio, resultando na perda do fluxo de trabalho original.
+
+Esse problema poderia ter sido evitado com a adoção de uma estratégia mais adequada de controle de versão, como o uso de branches, cada uma com sua responsabilidade bem definida, permitindo maior segurança durante alterações e experimentações no código.
+
+Considerando que o processo de criação de gráficos é repetitivo — envolvendo gráficos de pizza, barras, rosca, entre outros — uma abordagem mais adequada teria sido a implementação de uma arquitetura orientada a objetos. Nesse cenário, uma classe poderia ser responsável exclusivamente pela conexão com o banco de dados e geração dos arquivos CSV, enquanto outra classe seria dedicada à criação de métodos genéricos para geração de gráficos.
+
+Por exemplo, uma classe denominada GenericGraphs poderia consumir dados provenientes dos arquivos CSV e gerar visualizações de forma padronizada e eficiente utilizando a biblioteca Plotly, evitando a repetição de código e facilitando a manutenção, reutilização e escalabilidade da solução.
 
 ---
 

@@ -1,0 +1,17 @@
+orgao_pagador;nome_fornecedor;id_empenho;valor_contrato;valor_pago;valor_excedente;status_auditoria
+Prefeitura Municipal de Dados;Merenda Boa Alimentos;EMP-302;9923,46;44816,41;34892,95;CRITICO: SOBREPREÇO + SEM LIQUIDAÇÃO
+Prefeitura Municipal de Dados;Papelaria Central;EMP-475;3540,93;37368,07;33827,14;CRITICO: SOBREPREÇO + SEM LIQUIDAÇÃO
+Prefeitura Municipal de Dados;Papelaria Central;EMP-220;3405,19;34502,45;31097,26;CRITICO: SOBREPREÇO + SEM LIQUIDAÇÃO
+Prefeitura Municipal de Dados;TI Inovacao;EMP-404;5334,34;34966,86;29632,52;CRITICO: SOBREPREÇO + SEM LIQUIDAÇÃO
+Prefeitura Municipal de Dados;Transportes Rapido;EMP-382;17710,44;42217,97;24507,53;CRITICO: SOBREPREÇO + SEM LIQUIDAÇÃO
+Prefeitura Municipal de Dados;LimpMax Servicos;EMP-318;34913,61;48151,13;13237,52;CRITICO: SOBREPREÇO + SEM LIQUIDAÇÃO
+Prefeitura Municipal de Dados;Consultoria Estrategica;EMP-154;23991,72;36813,29;12821,57;CRITICO: SOBREPREÇO + SEM LIQUIDAÇÃO
+Prefeitura Municipal de Dados;Saude Vida Distribuidora;EMP-166;12510,57;24801,41;12290,84;CRITICO: SOBREPREÇO + SEM LIQUIDAÇÃO
+Prefeitura Municipal de Dados;Eventos & Promo;EMP-390;2023,71;13714,04;11690,33;CRITICO: SOBREPREÇO + SEM LIQUIDAÇÃO
+Prefeitura Municipal de Dados;Papelaria Central;EMP-78;4616,45;14239,61;9623,16;CRITICO: SOBREPREÇO + SEM LIQUIDAÇÃO
+Prefeitura Municipal de Dados;Merenda Boa Alimentos;EMP-334;19261,46;28655,81;9394,35;CRITICO: SOBREPREÇO + SEM LIQUIDAÇÃO
+Prefeitura Municipal de Dados;Obras Viarias RJ;EMP-479;35813,06;42222,2;6409,14;CRITICO: SOBREPREÇO + SEM LIQUIDAÇÃO
+Prefeitura Municipal de Dados;LimpMax Servicos;EMP-211;39172,67;42296,8;3124,13;CRITICO: SOBREPREÇO + SEM LIQUIDAÇÃO
+Prefeitura Municipal de Dados;Obras Viarias RJ;EMP-372;41676,42;43869,31;2192,89;CRITICO: SOBREPREÇO + SEM LIQUIDAÇÃO
+Prefeitura Municipal de Dados;Consultoria Estrategica;EMP-495;7163,43;8818,86;1655,43;CRITICO: SOBREPREÇO + SEM LIQUIDAÇÃO
+Prefeitura Municipal de Dados;Obras Viarias RJ;EMP-444;42217,97;43561,8;1343,83;CRITICO: SOBREPREÇO + SEM LIQUIDAÇÃO

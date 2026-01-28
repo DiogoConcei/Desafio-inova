@@ -851,17 +851,10 @@ SELECT
     np.chave_nfe,
     np.tipo_pagamento,
     np.valor_pagamento AS valor_nfe_pagamento,
-    l.id_empenho,
-    p.id_pagamento,
-    p.valor AS valor_total_banco
+    'REGISTRO ORFÃO (SEM LIQUIDAÇÃO VINCULADA)' AS status_auditoria
 FROM nfe_pagamento np
-LEFT JOIN liquidacao_nota_fiscal l
-    ON np.chave_nfe = l.chave_danfe
-LEFT JOIN pagamento p
-    ON l.id_empenho = p.id_empenho
-ORDER BY
-    l.id_empenho ASC;
-
+LEFT JOIN liquidacao_nota_fiscal l ON np.chave_nfe = l.chave_danfe
+WHERE l.chave_danfe IS NULL;
 ```
 
 **Resultado:** A consulta revelou a existência de **2 registros órfãos** (Chaves: `NFE...12` e `NFE...64`). Estes registros indicam pagamentos fiscais lançados no sistema, mas que não possuem vínculo com nenhuma liquidação ou empenho, constituindo "resíduos de dados" que não devem ser contabilizados na execução financeira válida.
